@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e538d2b8ac25ee1429e867320d76874e, type: 3}
+  m_Name: CrossedBullet
+  m_EditorClassIdentifier: 
+  _bulletType: 1
+  _bulletPrefab: {fileID: 5336558641037926958, guid: e72359b744c38e2439c7fe7d7508d082, type: 3}
+  _damage: 27
+  _bulletSpeed: 14

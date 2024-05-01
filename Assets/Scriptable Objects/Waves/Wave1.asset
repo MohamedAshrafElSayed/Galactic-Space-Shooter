@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3162b8997cc7e1f4a8d633a3e8dddf3c, type: 3}
+  m_Name: Wave1
+  m_EditorClassIdentifier: 
+  _powerUps:
+  - {fileID: 2161254722411710683, guid: 218803bb9eb2f884a9a9dafe6e5eede4, type: 3}
+  _asteroids:
+  - {fileID: 5508153855493927871, guid: b884108fc8b5b584d9a01b626b042567, type: 3}
+  _waveDuration: 20
+  _powerUpCount: 1
+  _spawnRate: 5
